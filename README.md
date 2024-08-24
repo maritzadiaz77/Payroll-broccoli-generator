@@ -1,4 +1,5 @@
 # Employee Payroll Tracker Starter Code
+
 GIVEN an employee payroll tracker
 WHEN I click the "Add employee" button
 THEN I am presented with a series of prompts asking for first name, last name, and salary
