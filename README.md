@@ -12,12 +12,18 @@ WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
 
 ## Installation
-links
+Deployed link:
+
+https://maritzadiaz77.github.io/Payroll-broccoli-generator/ 
+
+Github link:
+
+https://github.com/maritzadiaz77/Payroll-broccoli-generator 
 
 ## Usage
 ![alt text](<Assets/Employee Payroll Tracker.png>)
 
 ## Credits
-
+Received lots of help from xpert learning assistant and Ta Zac.
 ## License
 N/A
