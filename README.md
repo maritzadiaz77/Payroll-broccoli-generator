@@ -15,8 +15,7 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 links
 
 ## Usage
-
-screenshots
+![alt text](<Assets/Employee Payroll Tracker.png>)
 
 ## Credits
 
