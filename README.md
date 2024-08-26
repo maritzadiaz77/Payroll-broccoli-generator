@@ -1,5 +1,6 @@
 # Employee Payroll Tracker Starter Code
 
+## Description 
 GIVEN an employee payroll tracker
 WHEN I click the "Add employee" button
 THEN I am presented with a series of prompts asking for first name, last name, and salary
@@ -9,3 +10,15 @@ WHEN I choose to continue
 THEN I am prompted to add a new employee
 WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
+
+## Installation
+links
+
+## Usage
+
+screenshots
+
+## Credits
+
+## License
+N/A
